@@ -1,2 +1,6 @@
 one
+<<<<<<< HEAD
 two
+=======
+three
+>>>>>>> d813589 (file)
