@@ -1,2 +1,6 @@
 one
+<<<<<<< Updated upstream
 two
+=======
+three
+>>>>>>> Stashed changes
