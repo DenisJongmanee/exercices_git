@@ -1,8 +1,0 @@
-one
-three
-one
-<<<<<<< Updated upstream
-two
-=======
-three
->>>>>>> Stashed changes
